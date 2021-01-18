@@ -1,0 +1,10 @@
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\bin\Debug\Draw.exe
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\bin\Debug\Draw.pdb
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.exe
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.pdb
+C:\Users\Nadia\Desktop\SharpDevelop2-WinForms\obj\Debug\Draw.Properties.Resources.resources
